@@ -3,7 +3,7 @@ Proof of concept to preset-api and jwt-auth-acl
 
 ## Screenshots
 
-![Swagger](/public/images/swagger.jpeg)
+![Swagger](/public/images/swagger.png)
 
 ## How to reproduce?
 1. install laravel fresh app
